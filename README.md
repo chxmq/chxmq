@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;This+is+Yash+Saraogi....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+🚀;I+am+Yash+Saraogi...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/yashsaraogi0/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://x.com/chxmq/" title="X Profile"><img width="22" src="images/x.svg">X</a></code>
+  <code><a href="https://x.com/chxmq/" title="X Profile"><img width="22" src="images/x.jpg">X</a></code>
   <code><a href="https://discordapp.com/users/chmzq" title="Discord Profile"><img width="22" src="images/discord.png"> Discord</a></code>
   
 </h5>

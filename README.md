@@ -67,12 +67,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Framework-React-blue?style=flat&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Code-C-blue?style=flat&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Blockchain-Aptos-green?style=flat&logo=blockchain-dot-com&logoColor=white" alt="Aptos">
-  <img src="https://img.shields.io/badge/Tool-Docker-blue?style=flat&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Version%20Control-Git-orange?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Design-Figma-red?style=flat&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Learn-ChatGPT-lightgray?style=flat&logo=openai&logoColor=white" alt="ChatGPT">
 </p>
 
 ---

@@ -5,9 +5,9 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/yashsaraogi0/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://x.com/chxmq/" title="X Profile"><img width="22" src="images/x.jpg">X</a></code>
-  <code><a href="https://discordapp.com/users/chmzq" title="Discord Profile"><img width="22" src="images/discord.png"> Discord</a></code>
+  <code><a href="https://www.linkedin.com/in/yashsaraogi0/" title="LinkedIn Profile"><img width="22" src="Images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://x.com/chxmq/" title="X Profile"><img width="22" src="Images/x.jpg">X</a></code>
+  <code><a href="https://discordapp.com/users/chmzq" title="Discord Profile"><img width="22" src="Images/discord.png"> Discord</a></code>
   
 </h5>
 <br>

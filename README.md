@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=chxmq&style=flat-square&color=61dafb" alt="Profile views" />
+</p>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+🚀;I+am+Yash+Saraogi...;Nice+to+meet+you!&center=true&size=30">
@@ -54,10 +58,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chxmq&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chxmq&style=flat-square&color=61dafb" alt="Profile views" />
 </p>
 
 ---

@@ -11,9 +11,15 @@
 ---
 
 <h4 align="center">
-  <code><a href="https://www.linkedin.com/in/yashsaraogi0/" title="LinkedIn Profile"><img width="22" src="Images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://x.com/chxmq/" title="X Profile"><img width="22" src="Images/x.jpg"> X</a></code>
-  <code><a href="https://discordapp.com/users/chmzq" title="Discord Profile"><img width="22" src="Images/discord.png"> Discord</a></code>
+  <a href="https://www.linkedin.com/in/yashsaraogi0/" title="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://x.com/chxmq/" title="X Profile">
+    <img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  <a href="https://discordapp.com/users/chmzq" title="Discord Profile">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 </h4>
 
 ---
@@ -58,6 +64,10 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chxmq&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chxmq&style=flat-square&color=61dafb" alt="Profile views" />
 </p>
 
 ---

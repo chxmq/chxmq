@@ -10,23 +10,24 @@
 
 ---
 
-<h4 align="center">
-  <a href="https://www.linkedin.com/in/yashsaraogi0/" title="LinkedIn Profile">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://x.com/chxmq/" title="X Profile">
-    <img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-  <a href="https://discordapp.com/users/chmzq" title="Discord Profile">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</h4>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <p>
+        Hey there! I'm <strong>Yash Saraogi</strong>, a fun and enthusiastic developer with a knack for exploring cutting-edge technology. I thrive on crafting innovative solutions and diving deep into the world of code.
+      </p>
+      <ul>
+        <li>💻 I enjoy coding and learning new things about it every day.</li>
+        <li>🌱 Currently exploring <strong>Blockchain</strong>, <strong>Augmented Reality</strong>, and <strong>AI-driven applications</strong>.</li>
+        <li>📫 Reach me at: <a href="mailto:yashsaraogi05@gmail.com">yashsaraogi05@gmail.com</a></li>
+        <li>🔗 Find my work at: <a href="https://github.com/chxmq">GitHub Profile</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   I'm <b>Yash Saraogi</b>, a fun and enthusiastic developer with a knack for exploring cutting-edge technology.

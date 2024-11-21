@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  A passionate coder, innovator, and lifelong learner! 🌟
+  A coder, innovator, and lifelong learner! 🌟
 </h3>
 
 ---

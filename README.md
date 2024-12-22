@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  A coder, innovator, Plane Lover and lifelong learner! 🌟
+  A coder, innovator, Airplane Lover and lifelong learner! 🌟
 </h3>
 
 ---
@@ -18,7 +18,7 @@
   <tr>
     <td>
       <p>
-        Hey there! I'm <strong>Yash Saraogi</strong>, a fun and enthusiastic developer with a knack for exploring cutting-edge technology. I thrive on crafting innovative solutions and diving deep into the world of code.
+        Hey there! I'm <strong>Yash Saraogi</strong>, a fun and enthusiastic developer with a knack for exploring cutting-edge technology. I thrive on crafting innovative solutions and diving deep into the world of code and doing cool things.
       </p>
       <ul>
         <li>💻 I enjoy coding and learning new things about it every day.</li>

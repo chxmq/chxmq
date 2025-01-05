@@ -22,7 +22,7 @@
       </p>
       <ul>
         <li>💻 I enjoy coding and learning new things about it every day.</li>
-        <li>🌱 Currently exploring <strong>Blockchain</strong>, <strong>Augmented Reality</strong>, and <strong>AI-driven applications</strong>.</li>
+        <li>🌱 Currently exploring <strong>CTF</strong>, <strong>Blockchain</strong>, and <strong>AI-driven applications</strong>.</li>
         <li>🧠 Always curious and keen to learn something new.</li>
         <li>📫 Reach me at: <a href="mailto:yashsaraogi05@gmail.com">yashsaraogi05@gmail.com</a></li>
         <li>🔗 Find my work at: <a href="https://github.com/chxmq">GitHub Profile</a></li>

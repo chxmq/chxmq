@@ -30,7 +30,7 @@ Platform: ["STM32", "ESP32/8266", "Microcontrollers", "Nvidia Jetson", "Raspberr
 Protocols: ["I2C", "SPI", "CAN", "RS485", "LORa", "Wifi", "Bluetooth", "BLE"]
 Database/Protocols/Cloud: ["websockets", "SQL", "Firebase", "Google Cloud", "Suprabase", "Rest", "MQTT"]
 Tools: ["Autodesk Fusion", "SolidWorks", "Latex", "Unity"]
-Power Electronics: ["Motors (Brushless FOC/ESC, Brushed, Servos, Stepper)", "Battery Systems (LIPo, Liion)", "Latex", "Unity", "Linear Actuators", "Relays/Switching Methods"]
+Power Electronics: ["Motors (Brushless FOC/ESC, Brushed, Servos, Stepper)", "Battery Systems (LIPo, Liion)", "Unity", "Flight Controller", "Relays/Switching Methods"]
 Skills: ["Soldering", "Hand tools", "Power tools/ machining"]
 Software Concepts: ["OpenCV", "LLMs", "Git"]
 UI: ["Figma", "CSS", "Tailwind", "Bootstrap", "DaisyUI"]

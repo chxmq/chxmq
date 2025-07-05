@@ -18,6 +18,7 @@
 📍 **Location:** Bengaluru, India 🇮🇳  
 🎓 **Uni:** Computer Science Engineering @ RVCE | 
 🛠 **Current Projects:** 🚀 DroidAI, ProjectAque, H3ART
+
 🚩 **0NLY_FL4G$** - Flagging it always
 
 ---

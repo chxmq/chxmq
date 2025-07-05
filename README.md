@@ -14,7 +14,7 @@
 
 
 
-🎌 **Yash Saraogi | Mechatronics | Robotics | Planes | Software | Cloud | IoT | Embedded | AI/ML | Software| Cyber Security | **  <br>
+🎌 **Yash Saraogi** | Mechatronics | Robotics | Planes | Software | Cloud | IoT | Embedded | AI/ML | Software| Cyber Security |<br>
 📍 **Location:** Bengaluru, India 🇮🇳  <br>
 🎓 **Uni:** Computer Science Engineering @ RVCE | <br>
 🛠 **Current Projects:** 🚀 DroidAI, ProjectAque, H3ART <br>

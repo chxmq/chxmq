@@ -40,7 +40,7 @@ UI: ["Figma", "CSS", "Tailwind", "Bootstrap", "DaisyUI"]
 
 ## 🎮 **「 Now Playing 」**  
 🕹️ **Main Mission:** 🏮 DroidAI, ProjectAque
-📡 **Side Quest:** 🔴 Exploring H3ART
+📡 **Side Quest:** 🔴 Exploring LOG
 ```diff
 + 🚀 Progress: ███████░░░░ 70%
 + 🎯 Next: Launching DroidAI

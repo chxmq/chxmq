@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://tenor.com/view/minecraft-allay-mobvote-minecraft-live-mobvote2021-gif-23556599.gif" alt="Minecraft Allay" width="150"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&color=FFFFFF&background=446677&center=true&vCenter=true&lines=Welcome+to;champ's;Git!;;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&color=FFFFFF&background=446677&center=true&vCenter=true&lines=Welcome+to;Yash's;Git!;;" alt="Typing SVG"/>
 </p>
 
 ```
@@ -59,10 +59,13 @@ When I'm not building stuff, I travel, bike and cook.
 ---
 
 ## 🏯 **Links & Shrine**  
-[![🐙 GitHub](https://img.shields.io/badge/GitHub-@chxmq?style=for-the-badge&logo=github)](https://github.com/chxmq)  
-[![📓 Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)](https://notion.so/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yashsaraogi.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashsaraogi05/)  
+[![CTFtime](https://img.shields.io/badge/CTFtime-0NLY__FL4G%24-red?style=for-the-badge&logo=ctf&logoColor=white)](https://ctftime.org/user/248578)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chxmq/)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/chmzq)  
 
 ---
 
-🀄 **"A good design is one which conveys itself without the use of words" ~Yash Saraogi 2025** 🀄  
+🀄 **"You don't understand a system until you've broken it — so I build things, then take them apart, then build them better." ~Yash Saraogi 2026** 🀄  
 🏯 **Thanks for visiting!** 🚀 *Drop a ⭐ if you liked it!*
